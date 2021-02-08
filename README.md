@@ -1,6 +1,6 @@
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Olá, eu sou o Pedro!
 
-Designer gráfico de formação, que iniciou a carreira projetando interfaces, e hoje tá curtindo desenvolvê-las!
+#### Designer gráfico de formação, que iniciou a carreira projetando interfaces, e hoje tá curtindo desenvolvê-las!
 
 ## ⚡ Sobre mim
 
@@ -13,7 +13,7 @@ Designer gráfico de formação, que iniciou a carreira projetando interfaces, e
 - 💨 Manjo de metodologia ágil (atualmente, na Track, trampamos com o SCRUM)
 - 📺 Lá, também trabalhamos com frameworks mais voltados ao PHP, como o Laravel, Lumen & Flight
 - 📰 Além de manjar dos Blade Templates do Laravel, também tenho conhecimentos em React (aqui você vai achar alguns projetinhos paralelos que utilizam ele)
-- 🔰 HTML e CSS (Grid e FlexBox) é o padrão, mas também sei trabalhar bem com o javascript vanilla & PHP
+- 🔰  HTML e CSS (Grid e FlexBox) é o padrão, mas também sei trabalhar bem com o javascript vanilla & PHP
 - 🎯 Consumo de APIs, interfaces pixel perfect, e preocupação com qualidade e legibilidade de código são pontos que não esqueço
 
 ## 📢 Entre em contato!
