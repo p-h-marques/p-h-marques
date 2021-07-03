@@ -15,6 +15,7 @@
 - 📰 Além de manjar dos Blade Templates do Laravel, também tenho conhecimentos em React (aqui você vai achar alguns projetinhos paralelos que utilizam ele)
 - 🔰  HTML e CSS (Grid e FlexBox) é o padrão, mas também sei trabalhar bem com o javascript vanilla & PHP
 - 🎯 Consumo de APIs, interfaces pixel perfect, e preocupação com qualidade e legibilidade de código são pontos que não esqueço
+- 🚀 Costumo aplicar testes automatizados com Cypress durante meus desenvolvimentos
 
 ## 📢 Entre em contato!
 
