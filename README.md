@@ -4,7 +4,7 @@
 
 ## ⚡ Sobre mim
 
-- 🤵 Tenho 24 anos, sou formado em Design Gráfico pela UEMG, mas atualmente atuo como desenvolvedor front-end
+- 🤵 Tenho 25 anos, sou formado em Design Gráfico pela UEMG, mas atualmente atuo como desenvolvedor front-end
 - 🏡 Atualmente estou morando em Taubaté, interior de SP
 - 💼 Já bati o martelo que quero a área de desenvolvimento frontend pra minha vida!
 
