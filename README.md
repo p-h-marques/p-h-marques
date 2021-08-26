@@ -4,12 +4,13 @@
 
 ## ⚡ Sobre mim
 
-- 🤵 Tenho 25 anos, sou formado em Design Gráfico pela UEMG, mas atualmente atuo como desenvolvedor front-end
+- 🤵 Tenho 25 anos, sou formado em Design Gráfico pela UEMG, mas atualmente atuo como desenvolvedor front-end pleno na Trakto!
 - 🏡 Atualmente estou morando em Taubaté, interior de SP
 - 💼 Já bati o martelo que quero a área de desenvolvimento frontend pra minha vida!
 
 ## 📚 Conhecimentos e tecnologias
 
+- 🐱‍👤 Atualmente uso o Angular como principal framework de desenvolvimento
 - 💨 Manjo de metodologia ágil
 - 📺 Também já trabalhei com frameworks mais voltados ao PHP, como o Laravel, Lumen & Flight
 - 📰 Além de manjar dos Blade Templates do Laravel, também tenho conhecimentos em React (aqui você vai achar alguns projetinhos paralelos que utilizam ele)
