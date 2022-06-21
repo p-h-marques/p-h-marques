@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Olá, eu sou o Pedro!
+# Olá, eu sou o Pedro!
 
 #### Designer gráfico de formação, que iniciou a carreira projetando interfaces, e hoje tá curtindo desenvolvê-las!
 
