@@ -4,19 +4,16 @@
 
 ## ⚡ Sobre mim
 
-- 🤵 Tenho 26 anos, sou formado em Design Gráfico pela UEMG, mas atualmente atuo como desenvolvedor front-end!
-- 🏡 Atualmente estou morando em Taubaté, interior de SP
+- 🤵 Tenho 27 anos, sou formado em Design Gráfico pela UEMG, mas atualmente atuo como Tech Lead!
+- 🏡 Atualmente estou morando em Jacareí, interior de SP
 - 💼 Já bati o martelo que quero a área de desenvolvimento frontend pra minha vida!
 
 ## 📚 Conhecimentos e tecnologias
 
-- 🐱‍👤 Atualmente uso o Angular como principal framework de desenvolvimento
-- 💨 Manjo de metodologia ágil
-- 📺 Também já trabalhei com frameworks mais voltados ao PHP, como o Laravel, Lumen & Flight
-- 📰 Além de manjar dos Blade Templates do Laravel, também tenho conhecimentos em React (aqui você vai achar alguns projetinhos paralelos que utilizam ele)
-- 🔰  HTML e CSS (Grid e FlexBox) é o padrão, mas também sei trabalhar bem com o javascript vanilla & PHP
-- 🎯 Consumo de APIs, interfaces pixel perfect, e preocupação com qualidade e legibilidade de código são pontos que não esqueço
-- 🚀 Costumo aplicar testes automatizados com Cypress durante meus desenvolvimentos
+- 📺 No Frontend, possuo conhecimento aprofundado tanto em React quanto em Angular;
+- 📰 No mobile, trabalho com React Native; já no backend, minha praia é o Node.js!
+- 🎯 Hoje em dia atuo na liderança técnica de uma squad, destravando e organizando demandas fullstack;
+- 🚀 Frontend, mobile, backend, arquitetura e devops são áreas com as quais interajo todos os dias;
 
 ## 📢 Entre em contato!
 
