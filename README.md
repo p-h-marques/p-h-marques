@@ -1,6 +1,6 @@
 # Olá, eu sou o Pedro!
 
-#### Designer gráfico de formação, que iniciou a carreira projetando interfaces, e hoje tá curtindo desenvolvê-las!
+#### Desenvolvedor de Software Sênior, ex-designer gráfico
 
 ## ⚡ Sobre mim
 
