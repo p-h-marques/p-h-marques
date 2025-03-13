@@ -4,7 +4,7 @@
 
 ## ⚡ Sobre mim
 
-- 🤵 Tenho 27 anos, sou formado em Design Gráfico pela UEMG, mas atualmente atuo como Tech Lead!
+- 🤵 Tenho 28 anos, sou formado em Design Gráfico pela UEMG, mas atualmente atuo como Tech Lead!
 - 🏡 Atualmente estou morando em Jacareí, interior de SP
 - 💼 Já bati o martelo que quero a área de desenvolvimento frontend pra minha vida!
 
